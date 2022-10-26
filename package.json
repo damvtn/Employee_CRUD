@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TuanThai/Employee_CRUD.git"
+    "url": "https://github.com/damvtn/clouddam2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TuanThai/Employee_CRUD/issues"
+    "url": "https://github.com/damvtn/clouddam2.git"
   },
-  "homepage": "https://github.com/TuanThai/Employee_CRUD#readme"
+  "homepage": "https://github.com/damvtn/clouddam2.git"
 }
